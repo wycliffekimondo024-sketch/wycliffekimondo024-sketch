@@ -5,6 +5,7 @@ unleash the tech beast in you 🐐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C68B3C&center=true&vCenter=true&width=900&lines=Founder+of+GhostCost+AI;AI+Automation+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Building+Autonomous+Systems;Creating+Premium+3D+Web+Experiences" alt="Typing SVG"/>
 
+<img src="https://skillicons.dev/icons?i=vinstagram,discord,linkdin,github,notion,md">
 ---
 
 ### 🚀 Founder • AI Automation Engineer • Full-Stack Developer
@@ -135,10 +136,250 @@ I design and build:
 </div>
 
 ---
+"markdown id="5d7ukl"
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,sqlite,mysql,postgresql,mongodb" />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,bootstrap,sass,figma" />
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,npm" />
+
+## AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,claude,langchain,n8n" />
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=github,git,docker,linux,vercel,netlify,aws,firebase" />
+
+## Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,notion,md" />
+
+</div>
+
+---
+
+# 🤖 AI Engineering
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 LLM Engineering
+
+- Prompt Engineering
+- System Prompt Design
+- Agent Memory
+- Tool Calling
+- Context Management
+- Structured Outputs
+- RAG Concepts
+- AI Evaluation
+- Model Routing
+- Token Optimization
+
+</td>
+
+<td width="50%">
+
+## ⚙️ Agentic AI
+
+- Autonomous Agents
+- Multi-Agent Systems
+- Workflow Automation
+- Background Execution
+- API Integrations
+- Business Automation
+- Human-in-the-loop Systems
+- Production AI Pipelines
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏗️ Engineering Principles
+
+<div align="center">
+
+| Principle | Focus |
+|-----------|------|
+| 🧹 Data Hygiene | Eliminate GIGO |
+| 🧠 AI First | Intelligent Systems |
+| ⚡ Performance | Fast & Efficient |
+| 🔒 Reliability | Stable Automation |
+| 📈 Scalability | Production Ready |
+| 🎯 UX | Premium Experiences |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 👻 GhostCost AI
+
+> AI-powered SaaS auditing platform.
+
+### Features
+
+- 🔍 Ghost account detection
+- 💰 SaaS spend analysis
+- 🤖 AI-generated recommendations
+- 📊 Executive dashboards
+- ⚡ Automated workflows
+- 🔐 Secure architecture
+
+### Tech Stack
+
+`Python` • `n8n` • `Claude` • `Automation` • `REST APIs`
+
+---
+
+## 🌐 Premium Website Development
+
+I build:
+
+- Interactive 3D websites
+- AI-powered SaaS platforms
+- Startup landing pages
+- Enterprise dashboards
+- Portfolio websites
+- Automation portals
+
+Technologies:
+
+- React
+- Next.js
+- Three.js
+- GSAP
+- TailwindCSS
+- Framer Motion
+
+---
+
+## 🤖 AI Automation
+
+Services include:
+
+- AI Agents
+- Workflow Automation
+- Business Process Automation
+- CRM Integrations
+- API Development
+- Custom AI Assistants
+- Internal Knowledge Systems
+- AI Consulting
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Status |
+|--------------|--------|
+| Claude Code | ✅ |
+| Claude Essentials | ✅ |
+| Prompt Engineering | ✅ |
+| AI Workflow Design | ✅ |
+
+</div>
+
+---
+
+# 📈 Current Focus
+
+text
+█████████████████████░░░░ 80%
+
+Building GhostCost AI
+
+██████████████████░░░░░░░ 70%
+
+AI Automation Systems
+
+████████████████████░░░░░ 85%
+
+3D Website Development
+
+██████████████████████░░░ 90%
+
+Full Stack Engineering
+
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Launch GhostCost AI
+- 🤖 Build production AI agents
+- 🌍 Work with international clients
+- 📚 Contribute to open source
+- 🎥 Publish AI engineering content
+- ⚡ Build scalable SaaS products
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+----
+text
+Python           ████████████████░░░░░   45%
+TypeScript       ████████░░░░░░░░░░░░   20%
+JavaScript       ███████░░░░░░░░░░░░░   15%
+HTML/CSS         █████░░░░░░░░░░░░░░░   10%
+Automation       ████░░░░░░░░░░░░░░░░    7%
+Othter            ██░░░░░░░░░░░░░░░░░░    3%
+
+----
+
+<!--END_SECTION:waka-->
+
+
+
+<div align="center">
+
+### ⚡ "Building intelligent software that solves real-world business problems through automation, scalable architecture, and modern AI."
+
+</div>
+
+---
+
 
 # 💬 Quote
 
 >  *"Great software isn't built by writing more code—it's built by designing better systems with ensured security."*
 
 ---
-````
+,,,

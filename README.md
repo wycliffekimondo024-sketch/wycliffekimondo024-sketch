@@ -5,7 +5,7 @@ unleash the tech beast in you 🐐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C68B3C&center=true&vCenter=true&width=900&lines=Founder+of+GhostCost+AI;AI+Automation+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Building+Autonomous+Systems;Creating+Premium+3D+Web+Experiences" alt="Typing SVG"/>
 
-<img src="https://skillicons.dev/icons?i=instagram,discord,linkdin,github,notion,md">
+<img src="https://skillicons.dev/icons?i=,linkdin,github,md">
 ---
 
 ### 🚀 Founder • AI Automation Engineer • Full-Stack Developer

@@ -5,7 +5,7 @@ unleash the tech beast in you 🐐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C68B3C&center=true&vCenter=true&width=900&lines=Founder+of+GhostCost+AI;AI+Automation+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Building+Autonomous+Systems;Creating+Premium+3D+Web+Experiences" alt="Typing SVG"/>
 
-<img src="https://skillicons.dev/icons?i=vinstagram,discord,linkdin,github,notion,md">
+<img src="https://skillicons.dev/icons?i=instagram,discord,linkdin,github,notion,md">
 ---
 
 ### 🚀 Founder • AI Automation Engineer • Full-Stack Developer
@@ -344,7 +344,7 @@ Full Stack Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wycliffekimondo024-sketch&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -375,6 +375,203 @@ Othter            ██░░░░░░░░░░░░░░░░░░  
 </div>
 
 ---
+
+"markdown id="h0r8qf"
+---
+
+# 🏅 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wycliffekimondo024-sketch&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wycliffekimondo024-sketch&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wycliffekimondo024-sketch&theme=tokyonight" width="49%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wycliffekimondo024-sketch&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wycliffekimondo024-sketch&theme=tokyonight&utcOffset=3" width="49%" />
+
+</div>
+
+---
+
+# 🚀 Featured Repositories
+
+> Pin your best repositories on your GitHub profile to match these categories.
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 👻 **GhostCost AI** | AI-powered SaaS audit engine | 🚧 In Progress |
+| 🤖 **AI Agent Framework** | Modular autonomous agent architecture | 🚀 Planned |
+| 🌐 **3D Portfolio** | Interactive Three.js portfolio | ✅ Live |
+| ⚙️ **Automation Workflows** | n8n automation templates | 🚀 Growing |
+| 📚 **Prompt Engineering** | Reusable AI prompt library | 🚀 Active |
+| 🧩 **Developer Toolkit** | Utilities and reusable components | 🚀 Active |
+
+---
+
+# 📺 Content & Community
+
+<div align="center">
+
+<a href="https://www.youtube.com/@wycliffekimondo">
+<img src="https://img.shields.io/badge/🎥_YouTube-Learn_AI_Engineering-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wycliffe-kimondo-3b88b03a5/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+### Topics I Share
+
+- AI Engineering
+- Agentic AI
+- Workflow Automation
+- Python Development
+- SaaS Architecture
+- Prompt Engineering
+- Full-Stack Development
+- Startup Building
+
+---
+
+# 📈 Current Roadmap
+
+text
+✅ Professional Portfolio
+█████████████████████████████
+
+🚧 GhostCost AI MVP
+██████████████████████░░░░░░
+
+🚀 AI Agent Framework
+█████████████████░░░░░░░░░░░
+
+🌍 International Client Projects
+████████████████████░░░░░░░░
+
+🎥 AI Education Content
+███████████████░░░░░░░░░░░░░
+
+
+---
+
+# 💼 Available For
+
+- 🤖 AI Agent Development
+- ⚙️ Workflow Automation
+- 🌐 Full-Stack Web Applications
+- 🧠 AI Consulting
+- 📊 SaaS Development
+- 🎨 Premium UI/UX
+- 🚀 Startup MVP Development
+- 🔌 API Integrations
+
+---
+
+# ❤️ Support My Work
+
+If you enjoy my projects, consider:
+
+⭐ Starring repositories
+
+🍴 Forking projects
+
+📢 Sharing useful tools
+
+🤝 Collaborating on open source
+
+💼 Hiring me for AI engineering and software development
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+<a href="https://github.com/wycliffekimondo024-sketch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wycliffe-kimondo-3b88b03a5/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@wycliffekimondo">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=wycliffekimondo024-sketch&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> After enabling the GitHub Actions workflow, this animation will appear automatically.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wycliffekimondo024-sketch/wycliffekimondo024-sketch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# ⚙️ GitHub Actions You'll Need
+
+Create these workflow files inside:
+
+text
+.github/
+└── workflows/
+    ├── snake.yml
+    ├── metrics.yml
+    ├── profile-summary.yml
+    └── waka.yml   (optional)
+
+
+These workflows will automatically generate:
+
+- 🐍 Contribution Snake
+- 📈 Profile Summary Cards
+- 📊 GitHub Metrics
+- ⏱️ WakaTime coding stats (if you use WakaTime)
+
+---
+
+# 🌟 Favorite Quote
+
+> **"Build systems that continue creating value long after you've stopped typing."**
+
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+**Let's build intelligent software together.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8B5E3C,100:C68B3C&height=120&section=footer"/>
+
+</div>
 
 
 # 💬 Quote

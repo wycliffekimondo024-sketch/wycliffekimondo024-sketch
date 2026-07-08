@@ -10,6 +10,8 @@ unleash the tech beast in you 🐐
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C68B3C&center=true&vCenter=true&width=900&lines=Founder+of+GhostCost+AI;AI+Automation+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Building+Autonomous+Systems;Creating+Premium+3D+Web+Experiences" alt="Typing SVG"/>
 
 <img src="https://skillicons.dev/icons?i=,linkdin,github,md">
+
+
 ---
 ### 🚀 Founder • AI Automation Engineer • software Developer
 
@@ -148,11 +150,11 @@ I design and build:
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,sqlite,mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql,postgresql," />
 
 ## Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,bootstrap,sass,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma" />
 
 ## Backend
 
@@ -164,17 +166,8 @@ I design and build:
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,claude,langchain,n8n" />
 
-## Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=github,git,docker,linux,vercel,netlify,aws,firebase" />
-
-## Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,notion,md" />
-
-</div>
-
----
+----
 
 # 🤖 AI Engineering
 
@@ -237,12 +230,6 @@ I design and build:
 
 ---
 
-# 🚀 Featured Projects
-
-## 👻 GhostCost AI
-
-> AI-powered SaaS auditing platform.
-
 ### Features
 
 - 🔍 Ghost account detection
@@ -274,7 +261,6 @@ Technologies:
 - React
 - Next.js
 - Three.js
-- GSAP
 - TailwindCSS
 - Framer Motion
 
@@ -310,36 +296,8 @@ Services include:
 
 ---
 
-# 📈 Current Focus
-
-text
-█████████████████████░░░░ 80%
-
-Building GhostCost AI
-
-██████████████████░░░░░░░ 70%
-
-AI Automation Systems
-
-████████████████████░░░░░ 85%
-
-3D Website Development
-
-██████████████████████░░░ 90%
-
-Full Stack Engineering
 
 
----
-
-# 🎯 2026 Goals
-
-- 🚀 Launch GhostCost AI
-- 🤖 Build production AI agents
-- 🌍 Work with international clients
-- 📚 Contribute to open source
-- 🎥 Publish AI engineering content
-- ⚡ Build scalable SaaS products
 
 ---
 
@@ -357,13 +315,13 @@ Full Stack Engineering
 
 <!--START_SECTION:waka-->
 ----
-text
-Python           ████████████████░░░░░   45%
-TypeScript       ████████░░░░░░░░░░░░   20%
-JavaScript       ███████░░░░░░░░░░░░░   15%
-HTML/CSS         █████░░░░░░░░░░░░░░░   10%
-Automation       ████░░░░░░░░░░░░░░░░    7%
-Othter            ██░░░░░░░░░░░░░░░░░░    3%
+-text
+-Python           ████████████████░░░░   45%
+-TypeScript       ████████░░░░░░░░░░░░   20%
+-JavaScript       ███████░░░░░░░░░░░░░   15%
+-HTML/CSS         █████░░░░░░░░░░░░░░░   10%
+-Automation       ████░░░░░░░░░░░░░░░░    7%
+-Othter           ██░░░░░░░░░░░░░░░░░░    3%
 
 ----
 
@@ -404,20 +362,6 @@ Othter            ██░░░░░░░░░░░░░░░░░░  
 
 ---
 
-# 🚀 Featured Repositories
-
-> Pin your best repositories on your GitHub profile to match these categories.
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 👻 **GhostCost AI** | AI-powered SaaS audit engine | 🚧 In Progress |
-| 🤖 **AI Agent Framework** | Modular autonomous agent architecture | 🚀 Planned |
-| 🌐 **3D Portfolio** | Interactive Three.js portfolio | ✅ Live |
-| ⚙️ **Automation Workflows** | n8n automation templates | 🚀 Growing |
-| 📚 **Prompt Engineering** | Reusable AI prompt library | 🚀 Active |
-| 🧩 **Developer Toolkit** | Utilities and reusable components | 🚀 Active |
-
----
 
 # 📺 Content & Community
 
@@ -432,37 +376,6 @@ Othter            ██░░░░░░░░░░░░░░░░░░  
 </a>
 
 </div>
-
-### Topics I Share
-
-- AI Engineering
-- Agentic AI
-- Workflow Automation
-- Python Development
-- SaaS Architecture
-- Prompt Engineering
-- Full-Stack Development
-- Startup Building
-
----
-
-# 📈 Current Roadmap
-
-text
-✅ Professional Portfolio
-█████████████████████████████
-
-🚧 GhostCost AI MVP
-██████████████████████░░░░░░
-
-🚀 AI Agent Framework
-█████████████████░░░░░░░░░░░
-
-🌍 International Client Projects
-████████████████████░░░░░░░░
-
-🎥 AI Education Content
-███████████████░░░░░░░░░░░░░
 
 
 ---
@@ -523,40 +436,6 @@ If you enjoy my projects, consider:
 <img src="https://komarev.com/ghpvc/?username=wycliffekimondo024-sketch&style=for-the-badge&color=blueviolet"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-> After enabling the GitHub Actions workflow, this animation will appear automatically.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/wycliffekimondo024-sketch/wycliffekimondo024-sketch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# ⚙️ GitHub Actions You'll Need
-
-Create these workflow files inside:
-
-text
-.github/
-└── workflows/
-    ├── snake.yml
-    ├── metrics.yml
-    ├── profile-summary.yml
-    └── waka.yml   (optional)
-
-
-These workflows will automatically generate:
-
-- 🐍 Contribution Snake
-- 📈 Profile Summary Cards
-- 📊 GitHub Metrics
-- ⏱️ WakaTime coding stats (if you use WakaTime)
 
 ---
 

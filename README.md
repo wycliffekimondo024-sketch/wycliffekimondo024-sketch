@@ -11,8 +11,7 @@ unleash the tech beast in you 🐐
 
 <img src="https://skillicons.dev/icons?i=,linkdin,github,md">
 ---
-
-### 🚀 Founder • AI Automation Engineer • Full-Stack Developer
+### 🚀 Founder • AI Automation Engineer • software Developer
 
 Building intelligent AI systems, autonomous workflows, modern SaaS platforms, and cinematic web experiences.
 

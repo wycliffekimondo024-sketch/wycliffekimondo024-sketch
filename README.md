@@ -8,11 +8,8 @@ unleash the tech beast in you 🐐
 # 👋 Hello, I'm Wycliffe Kimondo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C68B3C&center=true&vCenter=true&width=900&lines=Founder+of+GhostCost+AI;AI+Automation+Engineer;Full-Stack+Developer;Agentic+AI+Builder;Building+Autonomous+Systems;Creating+Premium+3D+Web+Experiences" alt="Typing SVG"/>
-
-<img src="https://skillicons.dev/icons?i=,linkdin,github,md">
-
-
----
+ 
+ ---
 ### 🚀 Founder • AI Automation Engineer • software Developer
 
 Building intelligent AI systems, autonomous workflows, modern SaaS platforms, and cinematic web experiences.
@@ -28,7 +25,6 @@ Building intelligent AI systems, autonomous workflows, modern SaaS platforms, an
 
 # ⚡ About Me
 
-yaml
 Name: Wycliffe Kimondo
 
 Role:
@@ -76,30 +72,6 @@ My engineering principles include:
 
 ---
 
-# 🚀 What I'm Building
-
-## 👻 GhostCost AI
-
-An intelligent SaaS auditing platform that automatically discovers:
-
-- Ghost Accounts
-- Redundant Licenses
-- Unused Software Seats
-- Duplicate SaaS Costs
-- Department Spending
-- AI-powered Cost Optimisation
-
-**Technology**
-
-- Python
-- AI Agents
-- Claude
-- n8n 
-- Workflow Automation (eg, python scripts ) 
-- API Integrations
-
----
-
 ## 🌍 Premium Web Experiences
 
 I design and build:
@@ -141,8 +113,6 @@ I design and build:
 </div>
 
 ---
-"markdown id="5d7ukl"
----
 
 # 🛠️ Technology Stack
 
@@ -152,20 +122,13 @@ I design and build:
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql,postgresql," />
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma" />
-
 ## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,npm" />
 
 ## AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,claude,langchain,n8n" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
 
 ----
 
@@ -291,7 +254,7 @@ Services include:
 | Claude Essentials | ✅ |
 | Prompt Engineering | ✅ |
 | AI Workflow Design | ✅ |
-
+|Mindeluster(python) | ✅ |
 </div>
 
 ---
@@ -311,19 +274,6 @@ Services include:
 
 ---
 
-# 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-----
--text
--Python           ████████████████░░░░   45%
--TypeScript       ████████░░░░░░░░░░░░   20%
--JavaScript       ███████░░░░░░░░░░░░░   15%
--HTML/CSS         █████░░░░░░░░░░░░░░░   10%
--Automation       ████░░░░░░░░░░░░░░░░    7%
--Othter           ██░░░░░░░░░░░░░░░░░░    3%
-
-----
 
 <!--END_SECTION:waka-->
 

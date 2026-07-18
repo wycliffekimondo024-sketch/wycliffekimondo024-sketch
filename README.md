@@ -204,7 +204,7 @@ I design and build:
 
 ### Tech Stack
 
-`Python` • `n8n` • `Claude` • `Automation` • `REST APIs`
+`Python` • `n8n` • `Claude` • `javascript` • `REST APIs`•`html`•`css`•`django,flusk`
 
 ---
 
@@ -285,9 +285,6 @@ Services include:
 
 </div>
 
----
-
-"markdown id="h0r8qf"
 ---
 
 # 🏅 GitHub Highlights
